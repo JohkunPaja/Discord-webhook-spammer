@@ -1,0 +1,10 @@
+C:\Users\Johannes\source\repos\AutoBuild\AutoBuild\bin\Debug\AutoBuild.exe.config
+C:\Users\Johannes\source\repos\AutoBuild\AutoBuild\bin\Debug\AutoBuild.exe
+C:\Users\Johannes\source\repos\AutoBuild\AutoBuild\bin\Debug\AutoBuild.pdb
+C:\Users\Johannes\source\repos\AutoBuild\AutoBuild\obj\Debug\AutoBuild.csproj.AssemblyReference.cache
+C:\Users\Johannes\source\repos\AutoBuild\AutoBuild\obj\Debug\AutoBuild.Form1.resources
+C:\Users\Johannes\source\repos\AutoBuild\AutoBuild\obj\Debug\AutoBuild.Properties.Resources.resources
+C:\Users\Johannes\source\repos\AutoBuild\AutoBuild\obj\Debug\AutoBuild.csproj.GenerateResource.cache
+C:\Users\Johannes\source\repos\AutoBuild\AutoBuild\obj\Debug\AutoBuild.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\AutoBuild\AutoBuild\obj\Debug\AutoBuild.exe
+C:\Users\Johannes\source\repos\AutoBuild\AutoBuild\obj\Debug\AutoBuild.pdb
